@@ -98,13 +98,3 @@ lib/
 
 ---
 
-## 👤 Autor
-
-**Gabriel Araujo**
-Desenvolvedor Full Stack com foco em Backend, Elixir, IA e sistemas concorrentes.
-
----
-
-## 📄 Licença
-
-Este projeto é open-source e está disponível sob a licença MIT.
